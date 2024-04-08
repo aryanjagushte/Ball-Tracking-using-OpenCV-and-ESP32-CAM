@@ -16,7 +16,7 @@ This Python script detects and tracks objects of a specific color in a video str
 2. Ensure that you have Python installed on your system.
 3. Install the required libraries using pip:
 4. Place the video file in the same directory as the Python script (if using a recorded video, download here https://www.pexels.com/video/a-boy-playing-tennis-8224589/).
-5. Run the Python script using the following command:
+5. Run the Python script.
 6. Press the 'q' key to exit the program.
 
 ## Customization
@@ -46,7 +46,7 @@ https://github.com/aryanjagushte/Ball-Tracking-using-OpenCV-and-ESP32-CAM/assets
 1. Ensure that you have Python installed on your system.
 2. Install the required libraries using pip:
 3. Replace the `url` variable in the script with the URL of your IP camera's stream.
-4. Run the Python script using the following command:
+4. Run the Python script.
 5. Press the 'q' key to exit the program.
 
 ## Customization
@@ -71,7 +71,7 @@ https://github.com/aryanjagushte/Ball-Tracking-using-OpenCV-and-ESP32-CAM/assets
 ## Usage
 1. Ensure that you have Python installed on your system.
 2. Install the OpenCV library using pip:
-3. Run the Python script using the following command:
+3. Run the Python script.
 4. Adjust the trackbars to select the desired color range.
 5. Press the 'q' key to exit the program.
 
