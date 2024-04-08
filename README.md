@@ -40,6 +40,7 @@ https://github.com/aryanjagushte/Ball-Tracking-using-OpenCV-and-ESP32-CAM/assets
 - Python 3.x
 - OpenCV library
 - Numpy library
+- ESP32-CAM with OV2640 camera module
 
 ## Usage
 1. Ensure that you have Python installed on your system.
