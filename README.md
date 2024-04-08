@@ -32,6 +32,10 @@ This principle is fundamental in robotic perception systems as it allows the rob
 ## Introduction
 This Python script detects and tracks a green ball in a live video stream from an IP camera. It utilizes the OpenCV library for computer vision tasks.
 
+
+https://github.com/aryanjagushte/Ball-Tracking-using-OpenCV-and-ESP32-CAM/assets/90960915/46600a08-a209-45af-8c2b-da18ccd8cf75
+
+
 ## Requirements
 - Python 3.x
 - OpenCV library
