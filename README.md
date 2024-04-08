@@ -60,6 +60,9 @@ It is essential for robots to interact with their surroundings in real-time. By 
 ## Introduction
 This Python script allows users to select a color range using trackbars in the HSV color space for object detection in a live video feed from a webcam. It utilizes OpenCV for image processing tasks.
 
+https://github.com/aryanjagushte/Ball-Tracking-using-OpenCV-and-ESP32-CAM/assets/90960915/97b5dfae-5f90-473d-ae0c-17a8b5d58922
+
+
 ## Requirements
 - Python 3.x
 - OpenCV library
